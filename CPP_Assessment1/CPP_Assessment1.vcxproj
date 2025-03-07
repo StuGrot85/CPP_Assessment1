@@ -128,7 +128,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\String.cpp" />
-    <ClCompile Include="CPP_Assessment1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\String.h" />
